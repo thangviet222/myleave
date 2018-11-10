@@ -1,0 +1,7 @@
+{
+  "name": "myleave",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
