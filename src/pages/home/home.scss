@@ -1,3 +1,29 @@
 page-home {
-
+    .list-header-ios {
+        text-transform: none !important
+    }
+    ion-content ion-list-header .leaveavai {
+        border-bottom: 5px solid #4397C7 !important;
+        background-color: #F5F5F5 !important;
+    }
+    ion-col {
+        width: 33%;
+    }
+    .tab {
+        margin-top: 50px;
+        position: relative;
+        button {
+            width: 50%;
+            position: absolute;
+            bottom: 0
+        }
+        .active {
+            height: 40px;
+            background:  #4397C7;
+        }
+        .non-active {
+            height: 30px;
+            
+        }
+    }
 }
